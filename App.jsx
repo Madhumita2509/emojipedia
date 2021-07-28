@@ -1,6 +1,6 @@
 import React from "react";
 import Entry from "./Entry";
-import emojipedia from "../emojipedia";
+import emojipedia from "./emojipedia";
 
 //1. Extract the repeated parts of the App into a Entry component.
 //2. Use props to make the Entry component render different data.
